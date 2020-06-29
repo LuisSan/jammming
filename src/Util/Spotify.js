@@ -1,4 +1,4 @@
-const clientId = '<Your pwn ClientID from dev.spotify>';
+const clientId = '<Your own ClientID from dev.spotify>';
 const redirectUri = '<uri|localhost into your Spotify applications dashboard|url for your build version>';
 let accessToken;
 
